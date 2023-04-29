@@ -23,5 +23,5 @@ docker pull lazevedodevops/devops-toolbox
 ```
 #### open source
 
-Caso deseja colaborar com essa imagem, envie um MR com a sugestão. Fique livre
+Caso deseja colaborar com essa imagem, envie um Pull Request com a sugestão. Fique livre para contribuir.
 Em breve irei postar tags com base nas clouds de mercado.
